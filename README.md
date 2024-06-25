@@ -1,5 +1,5 @@
 
-![ezbuff](https://github.com/Richycam/ez-buffer-overflow/assets/97134605/9b630573-904a-4e45-98bb-43604aa37760)
+![ezbuffforgit](https://github.com/Richycam/ez-buffer-overflow/assets/97134605/c0456b26-1f76-4bf7-8446-168f3312a2c8)
 # ez buff
 
 ----STILL INCOMPLETE----
